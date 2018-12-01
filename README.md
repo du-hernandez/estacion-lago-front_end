@@ -6,4 +6,4 @@
 El objetivo de esta aplicación es simplemente representar los datos presentes en la base de datos y que representan el valor actual de las variables física detectado por los sensores (Temperatura, PH y oxígeno disuelto en el agua)
 
 # Preview
-![alt tag]("./preview.png")
+![Vista previa](https://github.com/du-hernandez/estacion-lago-front_end/blob/master/preview.png)
