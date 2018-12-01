@@ -7,3 +7,8 @@ El objetivo de esta aplicación es simplemente representar los datos presentes e
 
 # Preview
 ![Vista previa](https://github.com/du-hernandez/estacion-lago-front_end/blob/master/preview.png)
+
+# Instalación
+1. `npm install`
+2. `npm run express-server`
+3. `npm start`
