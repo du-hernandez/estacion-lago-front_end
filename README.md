@@ -1,33 +1,6 @@
-# React Skeleton
+# Estación lago Fron-End
+ Esta aplicación fue realizada con base en:
+ React Skeleton (https://github.com/juanortiz10/ReactSkeleton.git)
+#
 
-This is a simple project that is used to initialize my own react.js projects. It includes most important libraries to start on the right way,
-
-You can use it, just clone this repository
-```
-git clone https://github.com/juanortiz10/ReactSkeleton.git
-```
-
-Then you should initialize npm to download all required dependencies:
-```
-npm init
-npm install
-```
-
-
-### Notes
-This skeleton is working with node express server
-
-To init express server you have to call it, with next sentence:
-```
-npm run dev
-```
-
-Watchify is used to listen to new changes, also you have to keep your npm initialized like this:
-```
-npm start
-```
-
-License
-----
-
-Apache
+El objetivo de esta aplicación es simplemente representar los datos presentes en la base de datos y que representan el valor actual de las variables física detectado por los sensores (Temperatura, PH y oxígeno disuelto en el agua)
