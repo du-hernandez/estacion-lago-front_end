@@ -1,5 +1,4 @@
 # Estación lago Fron-End
-#
  Esta aplicación fue realizada con base en:
  React Skeleton (https://github.com/juanortiz10/ReactSkeleton.git)
 #
