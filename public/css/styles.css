@@ -1,0 +1,46 @@
+body {
+  font-size: 9pt;
+}
+
+.helper-top {
+  padding-top: 5%;
+}
+
+.icono-first {
+  font-size: 150pt;
+}
+
+.sensor, .actuador {
+  /*border: 1px solid #ED2;*/
+}
+
+.muestra-datos {
+  overflow: scroll;
+  height: 230px;
+}
+
+.footer {
+  padding-top: 1%;
+}
+
+h4 {
+  height: 25px;
+  padding-top: 2%;
+  border-radius: 5px;
+}
+
+.actuador {
+  border: 1px solid #000;
+}
+
+.item-actuador {
+  border-top: 1px solid #000;
+}
+
+.modal-seccion {
+  padding-top: 2%;
+}
+
+.tab-content {
+  padding-top: 2%;
+}
